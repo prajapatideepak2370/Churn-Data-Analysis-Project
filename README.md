@@ -45,7 +45,6 @@ Using Python, Pandas, Seaborn, and Matplotlib, this notebook investigates demogr
 ---
 
 ## 💡 Key Insights
-
 ### High risk groups:
 - Month-to-month contract users  
 - Customers paying via electronic check  
@@ -62,3 +61,4 @@ Using Python, Pandas, Seaborn, and Matplotlib, this notebook investigates demogr
 - **Python 3.x**  
 - **Pandas** → data handling  
 - **Seaborn & Matplotlib** → visualization  
+
